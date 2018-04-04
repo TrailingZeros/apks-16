@@ -1,3 +1,95 @@
+/Root/apps/Live Wallpaper Picker_7.1.2.apk
+/Root/apps/Live Wallpaper Picker_7.1.2.systag
+/Root/apps/MCPEマスター_2.1.29.apk
+/Root/apps/MTP ホスト_7.1.2.apk
+/Root/apps/MTP ホスト_7.1.2.systag
+/Root/apps/MmsService_7.1.2.apk
+/Root/apps/MmsService_7.1.2.systag
+/Root/apps/NFCサービス_7.1.2.apk
+/Root/apps/NFCサービス_7.1.2.systag
+/Root/apps/Nexus 5Xホーム画面_7.1.2.apk
+/Root/apps/Nexus 5Xホーム画面_7.1.2.systag
+/Root/apps/OctoDroid_4.2.0.apk
+/Root/apps/OctoDroid_4.2.1.apk
+/Root/apps/Ok Google enrollment_7.1.2.apk
+/Root/apps/Ok Google enrollment_7.1.2.systag
+/Root/apps/OpenVPN Connect_1.1.22.apk
+/Root/apps/OpenVPN Connect_1.1.23.apk
+/Root/apps/OpenVPN Connect_1.1.25.apk
+/Root/apps/OpenVPN Connect_1.1.26.apk
+/Root/apps/OpenVPN Connect_1.1.27.apk
+/Root/apps/Opera Mini_25.0.2254.116879.apk
+/Root/apps/Opera Mini_26.0.2254.117551.apk
+/Root/apps/PCM録音_5.6.0.apk
+/Root/apps/PCM録音_5.6.1.apk
+/Root/apps/PacProcessor_7.1.2.apk
+/Root/apps/PacProcessor_7.1.2.systag
+/Root/apps/Packet Capture_1.3.2.apk
+/Root/apps/Packet Capture_1.3.3.apk
+/Root/apps/Photo Editor_2.5.apk
+/Root/apps/Photo Editor_2.6.apk
+/Root/apps/Photo Editor_2.7.1.apk
+/Root/apps/Photo Editor_2.7.apk
+/Root/apps/Photo Editor_2.8.1.apk
+/Root/apps/Photo Editor_2.8.apk
+/Root/apps/Photo Editor_2.9.1.apk
+/Root/apps/Photo Editor_3.0.1.apk
+/Root/apps/Photo Editor_3.0.apk
+/Root/apps/Photo Editor_3.1.apk
+/Root/apps/Play Console_6.0.010.apk
+/Root/apps/Play Console_7.0.010.apk
+/Root/apps/Pocket Git_1.5.apk
+/Root/apps/ProxyHandler_7.1.2.apk
+/Root/apps/ProxyHandler_7.1.2.systag
+/Root/apps/QRコードスキャナー_4.7.7.apk
+/Root/apps/QuickEditプロ_1.2.4.apk
+/Root/apps/QuickEditプロ_1.2.5.apk
+/Root/apps/QuickEditプロ_1.3.0.apk
+/Root/apps/QuickEditプロ_1.3.1.apk
+/Root/apps/QuickEditプロ_1.3.2.apk
+/Root/apps/QuickEditプロ_1.3.3.apk
+/Root/apps/QuickEditプロ_1.3.4.apk
+/Root/apps/QuickEditプロ_1.3.5.apk
+/Root/apps/RecyclerViewAnimators_1.1.3.apk
+/Root/apps/Retail demo_7.1.2.apk
+/Root/apps/Retail demo_7.1.2.systag
+/Root/apps/SIM Toolkit_7.1.2.apk
+/Root/apps/SIM Toolkit_7.1.2.systag
+/Root/apps/Service Program_7.1.2.apk
+/Root/apps/Service Program_7.1.2.systag
+/Root/apps/Shadowsocks_4.4.6.apk
+/Root/apps/Shadowsocks_4.5.0.apk
+/Root/apps/Shadowsocks_4.5.2.apk
+/Root/apps/StationRadar_1.2.apk
+/Root/apps/StationRadar_1.3.apk
+/Root/apps/Termux_0.49.apk
+/Root/apps/Termux_0.51.apk
+/Root/apps/Termux_0.52.apk
+/Root/apps/Termux_0.53.apk
+/Root/apps/Termux_0.54.apk
+/Root/apps/Termux_0.56.apk
+/Root/apps/Termux_0.57.apk
+/Root/apps/Termux_0.59.apk
+/Root/apps/Termux_0.60.apk
+/Root/apps/Twilight Bomb_1.0.apk
+/Root/apps/VectorTest_1.0.apk
+/Root/apps/VpnDialogs_7.1.2.apk
+/Root/apps/VpnDialogs_7.1.2.systag
+/Root/apps/com.android.backupconfirm_7.1.2.apk
+/Root/apps/com.android.backupconfirm_7.1.2.systag
+/Root/apps/com.android.providers.partnerbookmarks_7.1.2.apk
+/Root/apps/com.android.providers.partnerbookmarks_7.1.2.systag
+/Root/apps/com.android.sdm.plugins.dcmo_7.1.2.apk
+/Root/apps/com.android.sdm.plugins.dcmo_7.1.2.systag
+/Root/apps/com.android.sdm.plugins.diagmon_7.1.2.apk
+/Root/apps/com.android.sdm.plugins.diagmon_7.1.2.systag
+/Root/apps/com.android.sharedstoragebackup_7.1.2.apk
+/Root/apps/com.android.sharedstoragebackup_7.1.2.systag
+/Root/apps/com.android.wallpaperbackup_7.1.2.apk
+/Root/apps/com.android.wallpaperbackup_7.1.2.systag
+/Root/apps/com.android.wallpapercropper_7.1.2.apk
+/Root/apps/com.android.wallpapercropper_7.1.2.systag
+/Root/apps/com.qti.qualcomm.datastatusnotification_7.1.2.apk
 /Root/apps/Googleの連絡先の同期_7.1.2.apk
 /Root/apps/Googleの連絡先の同期_7.1.2.systag
 /Root/apps/Googleアカウントマネージャー_7.1.2.systag
