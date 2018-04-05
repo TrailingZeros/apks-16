@@ -1,3 +1,82 @@
+/Root/apps/com.qualcomm.atfwd_7.1.2.apk
+/Root/apps/com.qualcomm.atfwd_7.1.2.systag
+/Root/apps/com.qualcomm.qcrilmsgtunnel_7.1.2.apk
+/Root/apps/com.qualcomm.qcrilmsgtunnel_7.1.2.systag
+/Root/apps/com.qualcomm.timeservice_7.1.2.apk
+/Root/apps/com.qualcomm.timeservice_7.1.2.systag
+/Root/apps/media Re.Scan_1.0.61.apk
+/Root/apps/media Re.Scan_1.0.62.apk
+/Root/apps/netprint_2.0.0.apk
+/Root/apps/もにゃ_1.4.0.apk
+/Root/apps/もにゃ_1.5.1.apk
+/Root/apps/アドレス帳_7.1.2.apk
+/Root/apps/アドレス帳_7.1.2.systag
+/Root/apps/カレンダーの保存_7.1.2.apk
+/Root/apps/カレンダーの保存_7.1.2.systag
+/Root/apps/キーチェーン_7.1.2.apk
+/Root/apps/キーチェーン_7.1.2.systag
+/Root/apps/クラウド プリント_1.37.apk
+/Root/apps/シェル_7.1.2.apk
+/Root/apps/シェル_7.1.2.systag
+/Root/apps/システムUI_7.1.2.systag
+/Root/apps/ストレージ マネージャ_7.1.2.apk
+/Root/apps/ストレージ マネージャ_7.1.2.systag
+/Root/apps/ストレージの設定_7.1.2.apk
+/Root/apps/ストレージの設定_7.1.2.systag
+/Root/apps/タッチ スクリーン テスト_1.6.15.apk
+/Root/apps/タッチ スクリーン テスト_1.7.7.apk
+/Root/apps/ダウンロード_7.1.2.apk
+/Root/apps/ダウンロード_7.1.2.systag
+/Root/apps/ダウンロードマネージャー_7.1.2.apk
+/Root/apps/ダウンロードマネージャー_7.1.2.systag
+/Root/apps/ネットの電話帳_1.0.38.apk
+/Root/apps/パッケージアクセス支援ツール_7.1.2.apk
+/Root/apps/パッケージアクセス支援ツール_7.1.2.systag
+/Root/apps/パッケージインストーラ_7.1.2.apk
+/Root/apps/パッケージインストーラ_7.1.2.systag
+/Root/apps/ファイル_7.1.2.apk
+/Root/apps/ファイル_7.1.2.systag
+/Root/apps/ブロックした電話番号用ストレージ_7.1.2.apk
+/Root/apps/ブロックした電話番号用ストレージ_7.1.2.systag
+/Root/apps/ベーシックスクリーンセーバー_7.1.2.apk
+/Root/apps/ベーシックスクリーンセーバー_7.1.2.systag
+/Root/apps/マーケットフィードバックエージェント_7.1.2.apk
+/Root/apps/マーケットフィードバックエージェント_7.1.2.systag
+/Root/apps/メディア ストレージ_7.1.2.apk
+/Root/apps/メディア ストレージ_7.1.2.systag
+/Root/apps/仕事用プロファイルの設定_7.1.2.apk
+/Root/apps/仕事用プロファイルの設定_7.1.2.systag
+/Root/apps/単語リスト_7.1.2.apk
+/Root/apps/単語リスト_7.1.2.systag
+/Root/apps/印刷スプーラ_7.1.2.apk
+/Root/apps/印刷スプーラ_7.1.2.systag
+/Root/apps/外部ストレージ_7.1.2.apk
+/Root/apps/外部ストレージ_7.1.2.systag
+/Root/apps/時計_5.1 (4146277).apk
+/Root/apps/時計_5.1 (4224536).apk
+/Root/apps/時計_5.2 (4415380).apk
+/Root/apps/時計_5.2 (4431577).apk
+/Root/apps/時計_5.2 (4439951).apk
+/Root/apps/時計_5.2 (4457198).apk
+/Root/apps/時計_5.2 (4471843).apk
+/Root/apps/端末を探す_2.0.014.apk
+/Root/apps/端末を探す_2.1.005.apk
+/Root/apps/緊急情報_7.1.2.apk
+/Root/apps/緊急情報_7.1.2.systag
+/Root/apps/緊急警報_7.1.2.apk
+/Root/apps/緊急警報_7.1.2.systag
+/Root/apps/設定_7.1.2.systag
+/Root/apps/証明書インストーラ_7.1.2.apk
+/Root/apps/証明書インストーラ_7.1.2.systag
+/Root/apps/認識済みの顔_7.1.2.systag
+/Root/apps/通話管理_7.1.2.apk
+/Root/apps/通話管理_7.1.2.systag
+/Root/apps/電卓_7.3 (4079033).apk
+/Root/apps/電卓_7.4 (4413861).apk
+/Root/apps/電卓_7.4.1 (4452929).apk
+/Root/apps/電話とSMS用ストレージ_7.1.2.apk
+/Root/apps/電話とSMS用ストレージ_7.1.2.systag
+/Root/apps/電話サービス_7.1.2.systag
 /Root/apps/Live Wallpaper Picker_7.1.2.apk
 /Root/apps/Live Wallpaper Picker_7.1.2.systag
 /Root/apps/MCPEマスター_2.1.29.apk
